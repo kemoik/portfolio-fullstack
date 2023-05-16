@@ -980,7 +980,7 @@ a:focus {
     width: 100%;
     margin: 45px 0;
     padding: 90px 0;
-    margin-top: 20px;
+    
     background: #EF233C;
 }
 
@@ -991,6 +991,7 @@ a:focus {
 
 .banner .section-header {
     margin-bottom: 20px;
+    margin-top: 20ox;
 }
 
 .banner .section-header p {
